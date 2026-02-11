@@ -45,8 +45,6 @@ Backend · Infrastructure · DevOps · Cloud
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Packetz&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Packetz&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
 </div>
