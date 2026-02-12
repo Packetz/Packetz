@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Packetz/Packetz/main/assets/chip-dark.gif#gh-dark-mode-only" alt="Chip animation" width="300" />
-<img src="https://raw.githubusercontent.com/Packetz/Packetz/main/assets/chip-light.gif#gh-light-mode-only" alt="Chip animation" width="300" />
+<img src="https://raw.githubusercontent.com/Packetz/Packetz/main/assets/chip-dark.gif#gh-dark-mode-only" alt="Chip animation" width="100%" />
+<img src="https://raw.githubusercontent.com/Packetz/Packetz/main/assets/chip-light.gif#gh-light-mode-only" alt="Chip animation" width="100%" />
 
 # Chip
 
