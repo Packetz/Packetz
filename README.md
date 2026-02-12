@@ -1,15 +1,14 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Packetz/Packetz/main/assets/chip-dark.gif#gh-dark-mode-only" alt="Chip animation" width="300" />
+<img src="https://raw.githubusercontent.com/Packetz/Packetz/main/assets/chip-light.gif#gh-light-mode-only" alt="Chip animation" width="300" />
+
 # Chip
 
-**Senior Software Engineer**
+Software Engineer
 
-Backend · Infrastructure · DevOps · Cloud
+<sub>Built UIs, APIs, infrastructure, and everything in between. If it needed doing, I did it.</sub>
 
-</div>
-
-<div align="center">
-<sub>Systems background. Crossed over to software. Never stopped picking up the things nobody else wanted to touch.</sub>
 </div>
 
 <br>
