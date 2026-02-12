@@ -5,9 +5,9 @@
 
 # Chip
 
-Software Engineer | AI/ML Hobbyist
+Senior Software Engineer | Product-Focused Builder | AI/ML Hobbyist
 
-<sub>Built UIs, APIs, infrastructure, and everything in between. If it needed doing, I did it.</sub>
+<sub>Built and owned UIs, APIs, infrastructure, and production systems end-to-end.</sub>
 
 </div>
 
@@ -16,6 +16,14 @@ Software Engineer | AI/ML Hobbyist
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chip-steen-a6943b54/)
+
+</div>
+
+<div align="center">
+  
+### Currently
+ 🚀 Building **DidItRun.io** — lightweight cron & job monitoring </br> </br>
+ 🔧 Focused on reliability, clean UX, and boring-but-correct infra
 
 </div>
 
