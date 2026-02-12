@@ -5,7 +5,7 @@
 
 # Chip
 
-Software Engineer
+Software Engineer | AI/ML Hobbyist
 
 <sub>Built UIs, APIs, infrastructure, and everything in between. If it needed doing, I did it.</sub>
 
